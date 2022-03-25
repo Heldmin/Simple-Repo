@@ -4,7 +4,7 @@ using namspace std;
 
 int main(){
 	
-double a,b, c, b;
+double a,b, c, d;
 
 cout << "Input your first number" << endl;	
 cin >> a;	
